@@ -28,7 +28,7 @@ steps:
 
 api_key = True
 # If you have a Google Places API key, enter it here
-api_key = 'AIzaSyDkdzVRJsH34548WtU9p5l_yFNNs5CmbMI'
+api_key = 'insert_api_key_here'
 
 if api_key is False:
     api_key = 42
